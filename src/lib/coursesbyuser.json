@@ -1,0 +1,62 @@
+[
+  {
+    "email": "john.doe@email.com",
+    "name": "Maths",
+    "description": "Learn Maths"
+  },
+  {
+    "email": "alice.smith@email.com",
+    "name": "Physics",
+    "description": "Learn Physics"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Chemistry",
+    "description": "Learn Chemistry"
+  },
+  {
+    "email": "alice.smith@email.com",
+    "name": "Physics",
+    "description": "Learn Physics"
+  },
+  {
+    "email": "alice.smith@email.com",
+    "name": "Chemistry",
+    "description": "Learn Chemistry"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Chemistry",
+    "description": "Learn Chemistry"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Biology",
+    "description": "Learn Biology"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Chemistry",
+    "description": "Learn Chemistry"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Chemistry",
+    "description": "Learn Chemistry"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Chemistry",
+    "description": "Learn Chemistry"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Computer",
+    "description": "Learn Computer"
+  },
+  {
+    "email": "john.doe@email.com",
+    "name": "Computer",
+    "description": "Learn Computer"
+  }
+]

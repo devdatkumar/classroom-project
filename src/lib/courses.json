@@ -1,0 +1,7 @@
+[
+  { "name": "Maths", "description": "Learn Maths" },
+  { "name": "Physics", "description": "Learn Physics" },
+  { "name": "Chemistry", "description": "Learn Chemistry" },
+  { "name": "Biology", "description": "Learn Biology" },
+  { "name": "Computer", "description": "Learn Computer" }
+]
